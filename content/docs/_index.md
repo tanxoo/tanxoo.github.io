@@ -1,6 +1,9 @@
 ---
 linkTitle: Documentation
 title: Introduction
+url: /
+aliases:
+  - /docs/
 ---
 
 👋 Welcome to the demo of the Hugo Blox Documentation template!

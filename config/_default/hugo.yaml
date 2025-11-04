@@ -62,7 +62,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 enableInlineShortcodes: true
-disableAliases: true
+disableAliases: false
 outputs:
   home: [HTML, RSS, WebAppManifest, headers, redirects, backlinks]
   page: [HTML]
